@@ -3,7 +3,7 @@
 
 </h1>
 
-<h3 align+"center">Desafio 1-1: Primeiros passos com JS</h3>
+<h3 align="center">Desafio 1-1: Primeiros passos com JS</h3>
 
 <blockquote align="center">"Com a ponta dos dedos contrói o teu mundo!"</blockquote>
 

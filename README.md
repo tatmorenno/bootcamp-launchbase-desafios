@@ -9,17 +9,10 @@
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:
 
-~~~Variáveis
-Exemplo: const nome = "Tatiana"
-~~~
+Variáveis | Condicionais | Operadores
+------ | ------- | ---------
+const nome = "Tatiana" | if(){} e else{} |  + - * / e/ou relacionais: > = < == !=
 
-~~~Condicionais
-if(){} e else{}
-~~~
-
-~~~Operadores
-Aritméricos: + - * / e/ou relacionais: > = < == !=
-~~~
 
 
 ## Cálculo de IMC

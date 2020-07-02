@@ -23,3 +23,7 @@ Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
 Crie um programa para calcular a aposentadoria de uma pessoa.
 
 <i>Obs.: Esse cálculo é fictício, dentro da aposentadoria existem muitos outros fatores para serem levados em conta :)</i>
+
+---
+
+Feito por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/)

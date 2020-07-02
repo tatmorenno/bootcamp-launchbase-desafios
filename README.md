@@ -26,4 +26,4 @@ Crie um programa para calcular a aposentadoria de uma pessoa.
 
 ---
 
-Feito por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/)
+🤩 Exercício resolvido por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻

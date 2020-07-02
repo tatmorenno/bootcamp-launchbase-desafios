@@ -11,8 +11,14 @@ Desafios para fortalecer alguns conceitos, entre eles:
 
 <b>
 - Variáveis;
+  <br/>
+  
 - Condicionais;
+<br/>
+  
 - Operadores.
+<br/>
+  
 </b>
 
 ## Cálculo de IMC

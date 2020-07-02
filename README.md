@@ -9,6 +9,6 @@
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:
 
--Variáveis;
--Condicionais;
--Operadores.
+- Variáveis;
+- Condicionais;
+- Operadores.

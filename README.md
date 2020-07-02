@@ -5,7 +5,7 @@
 
 <h3 align+"center">Desafio 1-1: Primeiros passos com JS</h3>
 
-<blockquote align="center">Sua única limitação é você mesmo!</blockquote>
+<blockquote align="center">"E com a ponta dos seus dedos você pode construir o seu mundo!"</blockquote>
 
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:

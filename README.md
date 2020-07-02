@@ -3,4 +3,10 @@
 </h1>
 
 ## Desafio 1-1: Primeiros passos com JS
-✔ Repositório contendo todos os desafios dos módulos do Bootcamp LaunchBase. 👩‍💻
+
+### 🚀 Sobre o desafio
+Desafios para fortalecer alguns conceitos, entre eles:
+
+-Variáveis;
+-Condicionais;
+-Operadores.

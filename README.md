@@ -10,9 +10,9 @@
 Desafios para fortalecer alguns conceitos, entre eles:
 
 
-- <p>Variáveis;</p>
-- <p>Condicionais;</p>
-- <p>Operadores.</p>
+- **Variáveis**;
+- __Condicionais__;
+- **Operadores**.
 
 ## Cálculo de IMC
 

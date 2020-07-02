@@ -6,7 +6,7 @@
   Desafio 1-1: Primeiros passos com JS
 </h3>
 
-<blockquote align="center">“Com a ponta dos dedos contrói o teu mundo"”</blockquote>
+<blockquote align="center">“Com a ponta dos dedos contrói o teu mundo!”</blockquote>
 
 <br/>
 

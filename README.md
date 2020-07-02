@@ -5,7 +5,7 @@
 
 <h3 align+"center">Desafio 1-1: Primeiros passos com JS</h3>
 
-<blockquote align="center">Sua única limitação é você mesm@</blockquote>
+<blockquote align="center">Sua única limitação é você mesmo!</blockquote>
 
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:

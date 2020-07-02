@@ -11,7 +11,7 @@ Desafios para fortalecer alguns conceitos, entre eles:
 
 Variáveis | Condicionais | Operadores
 ------ | ------- | ---------
-const nome = "Tatiana" | if(){} e else{} |  + - * / e/ou relacionais: > = < == !=
+const nome = "Tatiana" | if() {} e else {} |  + - * / e/ou relacionais: > = < == !=
 
 
 

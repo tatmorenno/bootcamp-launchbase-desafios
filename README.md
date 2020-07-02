@@ -9,6 +9,16 @@
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:
 
-- Variáveis;
-- Condicionais;
-- Operadores.
+- ##### Variáveis;
+- ##### Condicionais;
+- ##### Operadores.
+
+## Cálculo de IMC
+
+Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
+
+## Cálculo de aposentadoria
+
+Crie um programa para calcular a aposentadoria de uma pessoa.
+
+<i>Obs.: Esse cálculo é fictício, dentro da aposentadoria existem muitos outros fatores para serem levados em conta :)</i>

@@ -9,9 +9,11 @@
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:
 
-- ##### Variáveis;
-- ##### Condicionais;
-- ##### Operadores.
+<b>
+- Variáveis;
+- Condicionais;
+- Operadores.
+</b>
 
 ## Cálculo de IMC
 

@@ -8,6 +8,8 @@
 
 <blockquote align="center">“Com a ponta dos dedos contrói o teu mundo"”</blockquote>
 
+<br/>
+
 ## 🚀 Sobre o desafio
 Desafios para fortalecer alguns conceitos, entre eles:
 

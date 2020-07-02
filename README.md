@@ -10,7 +10,7 @@
 Desafios para fortalecer alguns conceitos, entre eles:
 
 ~~~Variáveis
-Exemplo: ```const nome = "Tatiana"```
+Exemplo: const nome = "Tatiana"
 ~~~
 
 ~~~Condicionais
